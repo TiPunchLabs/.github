@@ -1,25 +1,57 @@
-🍋 TiPunchLabs
-Open source with a twist
+# 🍋 TiPunchLabs
 
-Un lab tech à l'esprit caribéen et d'ailleurs — du code, des tutos, et une dose de rhum.
+**Open source with a twist**
 
-À propos
-TiPunchLabs est un collectif tech dédié au partage de connaissances autour du DevOps, du développement (React/Python), de l'IA et des outils CLI Linux. Tous les contenus sont testés en production, pas de théorie en l'air.
+> A global tech lab scattered across Europe (and one sunny island) — code, tutorials, and a splash of rum. Best served with lime.
 
-Stack technique
-Framework : Next.js 14 (App Router)
-Langage : TypeScript
-Contenu : MDX
-Style : Tailwind CSS
-Catégories
-🔧 DevOps — Kubernetes, Terraform, CI/CD
-💻 Développement — React, Python, bonnes pratiques
-🤖 IA — LLMs, outils, intégrations et expérimentations
-🐧 CLI Linux — Outils et scripts du quotidien
-Philosophie
-La bidouille sous les tropiques : des solutions open-source, self-hosted, et un état d'esprit décontracté face à la tech.
+---
 
-Licence
+## About
+
+TiPunchLabs is a tech collective dedicated to sharing knowledge around DevOps, development (React/Python), AI, and Linux CLI tools. All content is battle-tested in production — no armchair theory here.
+
+---
+
+## Tech Stack
+
+| Component | Technology              |
+| --------- | ----------------------- |
+| Framework | Next.js 14 (App Router) |
+| Language  | TypeScript              |
+| Content   | MDX                     |
+| Styling   | Tailwind CSS            |
+
+---
+
+## Categories
+
+|    | Topic                 | Focus                                   |
+| -- | --------------------- | --------------------------------------- |
+| 🔧 | **DevOps**      | Kubernetes, Terraform, CI/CD            |
+| 💻 | **Development** | React, Python, best practices           |
+| 🤖 | **AI**          | LLMs, tools, integrations & experiments |
+| 🐧 | **Linux CLI**   | Everyday tools and scripts              |
+
+---
+
+## Philosophy
+
+> **@xgueret** — *"Tinkering under the tropical sun: open-source solutions, self-hosted setups, and a laid-back approach to tech."*
+
+---
+
+## Members
+
+|    | Name               | Role |
+| -- | ------------------ | ---- |
+| 👤 | **@xgueret** | All  |
+
+---
+
+## License
+
 MIT
 
-Né sous le soleil, codé partout 🌴
+---
+
+<p align="center"><em>Born under the sun, coded everywhere</em> 🌴</p>
